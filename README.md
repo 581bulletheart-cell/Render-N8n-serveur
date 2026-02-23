@@ -1,7 +1,6 @@
 # n8n sur Render.com
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
-Déploiement de n8n sur Render.com avec base de données Supabase.
 
 ## Comment installer
 
