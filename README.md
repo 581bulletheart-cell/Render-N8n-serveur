@@ -13,8 +13,14 @@
 
 ## Variables d'environnement importantes
 
-- `WEBHOOK_URL` : l'URL publique de ton instance n8n
+- `DB_POSTGRESDB_HOST` : ton mot de passe Supabase
+- `DB_POSTGRESDB_PORT` : ton mot de passe Supabase
+- `DB_POSTGRESDB_USER` : ton mot de passe Supabase
 - `DB_POSTGRESDB_PASSWORD` : ton mot de passe Supabase
+- `DB_POSTGRESDB_DATABASE` : ton mot de passe Supabase
+
+Une fois installé, ajouter la variable d'environnement 
+- `WEBHOOK_URL` : l'URL publique de ton instance n8n
 
 ## Modèles IA
 
